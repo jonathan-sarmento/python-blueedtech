@@ -3,7 +3,7 @@ def soma(a, b, c):
     return s
 
 
-n1 = float(input('n1: '))
+n1 = float(input('n0: '))
 n2 = float(input('n2: '))
 n3 = float(input('n3: '))
 
