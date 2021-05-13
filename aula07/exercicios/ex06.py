@@ -19,8 +19,6 @@ def media(a, b=0, c=None):
         return media
 
 
-
-
 nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))
 nota3 = float(input('Digite a terceira nota: '))
